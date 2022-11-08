@@ -1,0 +1,2 @@
+# Embedded_Labs
+This lab entails how to utilize PWM and TIMER with the MSP430. The first question uses the watchdog timer and interrupts to toggle a green LED with a 250ms. The second question asks to generate a PWM with a 10% duty cycle and 500ms period. The oscilloscope was utilized to show the PWM signal. The third problem asks to generate a PWM signal with a 20% duty cycle and 250ms period utilizing the oscilloscope.
